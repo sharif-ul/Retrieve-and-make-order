@@ -1,0 +1,17 @@
+ body h1, h2, h4 {
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+ul li{
+	background-color: #999;
+	margin-left: 100px;
+}
+
+#name, #drink{
+	margin-left: 150px;
+}
+
+#add-order{
+	margin-left: 150px;
+}
